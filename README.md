@@ -8,9 +8,9 @@ aanpassing
 
 ik heb een nieuwe branch
 
-<<<<<<< HEAD
+<<<<<<< HEAD (tot hier werkte dit
 blablalbaaaaa
-=======
+======= (welke moet er eerst ???) 
 
 might cause a confilt
->>>>>>> issue2
+>>>>>>> issue2 (branche)
