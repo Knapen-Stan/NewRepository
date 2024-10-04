@@ -8,4 +8,9 @@ aanpassing
 
 ik heb een nieuwe branch
 
+<<<<<<< HEAD
 blablalbaaaaa
+=======
+
+might cause a confilt
+>>>>>>> issue2
